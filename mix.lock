@@ -1,0 +1,3 @@
+%{
+  "clipboard": {:hex, :clipboard, "0.2.1", "d1409d6c94f6f5806c5c224d6396fb750729c6284bf375c08e9428ce9efc6470", [], [], "hexpm"},
+}
